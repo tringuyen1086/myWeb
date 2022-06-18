@@ -8,9 +8,11 @@ Welcome to my personal website.
 
 ## Visual
 
-[!homepage](https://user-images.githubusercontent.com/71200950/174415136-3c1f254f-551c-48d3-a5d6-97ded9477e93.png)
+![homepage](https://user-images.githubusercontent.com/71200950/174415136-3c1f254f-551c-48d3-a5d6-97ded9477e93.png)
 
-Demo: https://user-images.githubusercontent.com/71200950/174414851-e3401a16-53a9-4286-b261-da0bc5ed8bc2.mp4
+
+
+https://user-images.githubusercontent.com/71200950/174414851-e3401a16-53a9-4286-b261-da0bc5ed8bc2.mp4
 
 Alternative Link: https://vimeo.com/721621341/0b0fcb8fe5
 
